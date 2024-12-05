@@ -1,0 +1,4 @@
+{
+  "databaseUrl": "postgresql://user:password@host:port/database",
+  "timeout": 10
+}
